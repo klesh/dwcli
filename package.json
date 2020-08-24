@@ -1,7 +1,10 @@
 {
   "name": "dwmark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CLI tool of digital-watermarking package",
+  "engines": {
+    "node": ">=10.17"
+  },
   "keywords": [
     "digital-watermarking",
     "digital-proof",
