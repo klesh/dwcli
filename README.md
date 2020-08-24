@@ -1,9 +1,15 @@
-# CLI wrapper of https://github.com/zy445566/node-digital-watermarking
+# CLI wrap of https://github.com/zy445566/node-digital-watermarking
 
 
 # Installation
 
-to be done
+```bash
+npm install -g dwmark
+```
+or
+```bash
+yarn global add dwmark
+```
 
 
 # Usage
