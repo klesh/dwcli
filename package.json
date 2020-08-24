@@ -1,4 +1,23 @@
 {
+  "name": "dwcli",
+  "version": "0.1.1",
+  "description": "CLI tool of digital-watermarking package",
+  "keywords": [
+    "digital-watermarking",
+    "digital-proof",
+    "copyright-proof",
+    "watermarking",
+    "embedded-watermark",
+    "hidden-watermark"
+  ],
+  "repository": "klesh/dwcli",
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klesh/dwcli/issues"
+  },
+  "author": "Klesh Wong",
+  "homepage": "https://github.com/klesh/dwcli#readme",
   "dependencies": {
     "digital-watermarking": "^1.1.9",
     "glob": "^7.1.6",
