@@ -1,5 +1,5 @@
 {
-  "name": "dwcli",
+  "name": "dwmark",
   "version": "0.1.1",
   "description": "CLI tool of digital-watermarking package",
   "keywords": [
@@ -15,6 +15,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/klesh/dwcli/issues"
+  },
+  "bin": {
+    "dwmark": "index.js"
   },
   "author": "Klesh Wong",
   "homepage": "https://github.com/klesh/dwcli#readme",

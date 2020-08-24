@@ -12,7 +12,7 @@ to be done
 ## Embedding text into image(s)
 
 ```bash
-dwcli encode <text> <origin> <encoded> [size]
+dwmark encode <text> <origin> <encoded> [size]
 
 text     text to be hidden
 origin   path to origin image file(s), glob supported (*.jpg)
@@ -22,7 +22,7 @@ encoded  saving location of the encoded image(s), can be a directory
 ## Convert encoded image(s) for text viewing
 
 ```bash
-dwcli decode <encoded> <decoded>
+dwmark decode <encoded> <decoded>
 
 encoded  path to encoded image(s), glob supported (*.jpg)
 decoded  saving location of the decoded image, can be a directory
