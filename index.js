@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const dw = require('digital-watermarking');
 const glob = require('glob');
 const fs = require('fs');

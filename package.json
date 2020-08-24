@@ -1,9 +1,9 @@
 {
   "name": "dwmark",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "CLI tool of digital-watermarking package",
   "engines": {
-    "node": ">=10.17"
+    "node": ">=10.17 <11.0 || >=11.14"
   },
   "keywords": [
     "digital-watermarking",
@@ -20,7 +20,7 @@
     "url": "https://github.com/klesh/dwcli/issues"
   },
   "bin": {
-    "dwmark": "index.js"
+    "dwmark": "./index.js"
   },
   "author": "Klesh Wong",
   "homepage": "https://github.com/klesh/dwcli#readme",
