@@ -1,0 +1,4 @@
+node_modules/
+origin/*
+decoded/*
+encoded/*
